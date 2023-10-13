@@ -4,10 +4,8 @@ import './tabcontent.css';
 
 
 const TabContent = (fooditems) => {
-  const [showMinus, setShowMinus] = useState(false);
-
-
   
+  const [showMinus, setShowMinus] = useState(false);
   const toggleIcon = () => {
     setShowMinus(!showMinus);
   };
