@@ -1,21 +1,33 @@
-/* cart.css */
-
 .cart-box {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Adjust the height as needed */
+  height: 100vh;
+  background-color: #eee8e8;
 }
 
 .cartContainer {
   border: 1px solid #ccc;
-  padding: 20px;
-  width: 600px; 
+  padding: 30px;
+  width: 600px;
   text-align: center;
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center;
+  background-color: #494747; 
+  color: white;
 }
-.cart-item{
+
+.cart-item {
   display: flex;
+  flex: 1;
 }
+
+.item-details {
+  display: flex;
+  gap: 30px;
+}
+
 .cart-item img {
   max-width: 100px;
   max-height: 100px;
@@ -25,6 +37,7 @@
 .quantity {
   display: flex;
   align-items: center;
+  gap: 10px; 
 }
 
 button {
