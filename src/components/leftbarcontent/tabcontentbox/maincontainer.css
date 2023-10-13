@@ -1,0 +1,15 @@
+.mainContainer {
+  display: grid;
+  grid-template-columns: repeat(5, 240px);
+  margin: 20px;
+
+}
+
+@media only screen and (max-width: 768px) {
+  .mainContainer {
+    display: grid;
+    grid-template-columns: repeat(1, 0px);
+    margin: 0 70px;
+  }
+
+}

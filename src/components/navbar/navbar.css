@@ -1,0 +1,46 @@
+
+.navbar {
+    background-color: 	#FFBF00; 
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(17, 15, 15); 
+    padding: 10px;
+  }
+  
+  .left-text {
+    flex: 1; 
+    font-size: 28px;
+    font-weight: 600;
+  }
+  
+
+  .right-buttons {
+    display: flex;
+  }
+  
+  
+  .button {
+    background-color: white; 
+    box-shadow:  rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: #333; 
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 35%;
+    cursor: pointer;
+  }
+  
+  
+  .button:hover {
+    background-color: #6fc9d5; 
+  }
+  @media only screen and (max-width: 768px) {
+    .navbar {
+      background-color: 	white; 
+    }
+    .button {
+       box-shadow:  rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+  }
