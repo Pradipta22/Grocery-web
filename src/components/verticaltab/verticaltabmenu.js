@@ -35,7 +35,7 @@ const VerticalTabs = () => {
       </div>
 
       <div className="tab-content">
-        {/* Render different components based on the activeTab */}
+        {/* Render components based on the activeTab */}
         {activeTab === 0 && <Bakery />}
         {activeTab === 1 && <Cannedfood />}
         {activeTab === 2 && <Preparedfood />}
