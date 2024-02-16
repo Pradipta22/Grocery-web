@@ -7,8 +7,11 @@ The React-based grocery app combines a beautiful, easy-to-use mobile design with
 #Installation:-
 --
 To install the project, follow these steps:
+
  Clone the repository.
+ 
 --Install the dependencies using npm install.
+
 --Start the project using npm start.
 
 #Credits:
