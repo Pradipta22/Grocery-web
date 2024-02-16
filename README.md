@@ -14,14 +14,14 @@ To install the project, follow these steps:
 
 --Start the project using npm start.
 
-#Credits:
---
-This project was created by PRADIPTA PALEI❤️.
+
 --
 ![Screenshot 2024-02-16 172441](https://github.com/Pradipta22/Grocery-web/assets/81964254/d29f4d89-3b6a-4c05-872c-0c8f00344c4b)
 
 ![Screenshot 2024-02-16 172519](https://github.com/Pradipta22/Grocery-web/assets/81964254/f6684791-72f2-4b1e-b7e1-f0fedbdd9593)
 
-
+#Credits:
+--
+This project was created by PRADIPTA PALEI❤️.
   
 
