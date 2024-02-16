@@ -18,8 +18,10 @@ To install the project, follow these steps:
 --
 This project was created by PRADIPTA PALEI❤️.
 --
+![Screenshot 2024-02-16 172441](https://github.com/Pradipta22/Grocery-web/assets/81964254/d29f4d89-3b6a-4c05-872c-0c8f00344c4b)
 
-![2023-03-05](https://user-images.githubusercontent.com/81964254/222976151-0eea01c3-5288-45bb-9ef3-fab24451d59a.png)
+![Screenshot 2024-02-16 172519](https://github.com/Pradipta22/Grocery-web/assets/81964254/f6684791-72f2-4b1e-b7e1-f0fedbdd9593)
+
 
   
 
